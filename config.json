@@ -8,8 +8,8 @@
   "devices": {
     "STREAMX-6A3A-062A-15C2-0C92": {
       "note": "Sunucu",
-      "type": "7 Gunluk Deneme",
-      "exp_ts": 1787684730,
+      "type": "365 Gunluk (1 Yil)",
+      "exp_ts": 1818616187,
       "banned": false
     }
   }
